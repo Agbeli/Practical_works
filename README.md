@@ -1,2 +1,1 @@
-# Practical_works
-Sample Analysis 
+The readme file explains some of works using python
